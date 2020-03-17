@@ -1,4 +1,4 @@
-# One dark pro in MobaXterm
+# One Dark Pro in MobaXterm
 
 paste following code to `MobaXterm.ini`
 
